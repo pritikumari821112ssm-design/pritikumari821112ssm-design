@@ -9,16 +9,24 @@ Passionate about solving real-world problems through data analysis, automation, 
 - 🏫 Studying at **Gopal Narayan Singh University (GNSU)**.
 - 🚀 My goal is to grow as a skilled **Software Engineering** professional.
 - 💡 I enjoy turning ideas into real projects through continuous experimentation and hands-on practice.
+- 🌍 **Fun Fact:** I love **Traveling** and exploring new places! ✈️🗺️
 
 ---
 
-### 🛠 Currently Learning
+### 🛠 Skills & Tools
+- **Languages:** Python, C, Java, HTML, CSS
+- **Tools & Platforms:** GitHub, VS Code, Git
+- **Specialization:** Data Science & AI concepts
+
+---
+
+### 🚀 Currently Learning
 - ⚛️ **React** for frontend development
 - ☁️ **DevOps basics** (Deployment/Cloud)
 
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/feed/)
 
 ---
