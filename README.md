@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Priti Kumari! 👋
 
-<!--
-**pritikumari821112ssm-design/pritikumari821112ssm-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Engineer | BCA Student | Data Science & AI
 
-Here are some ideas to get you started:
+Passionate about solving real-world problems through data analysis, automation, and intelligent applications. Always eager to explore new technologies and push the limits of what's possible. 🦁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 **BCA Student** specializing in **Data Science & Artificial Intelligence**.
+- 🏫 Studying at **Gopal Narayan Singh University (GNSU)**.
+- 🚀 My goal is to grow as a skilled **Software Engineering** professional.
+- 💡 I enjoy turning ideas into real projects through continuous experimentation and hands-on practice.
+
+---
+
+### 🛠 Currently Learning
+- ⚛️ **React** for frontend development
+- ☁️ **DevOps basics** (Deployment/Cloud)
+
+---
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/)
+
+---
