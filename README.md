@@ -21,7 +21,6 @@ Passionate about solving real-world problems through data analysis, automation, 
 ---
 
 ### 🚀 Currently Learning
-- ⚛️ **React** for frontend development
 - ☁️ **DevOps basics** (Deployment/Cloud)
 
 ---
