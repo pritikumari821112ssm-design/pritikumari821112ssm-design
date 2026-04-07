@@ -21,11 +21,13 @@ Passionate about solving real-world problems through data analysis, automation, 
 ---
 
 ### 🚀 Currently Learning
+- ⚛️ **React** for frontend development
 - ☁️ **DevOps basics** (Deployment/Cloud)
 
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pritikumari821112ssm@gmail.com)
 
 ---
