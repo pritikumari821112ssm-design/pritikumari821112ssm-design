@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
 <h3 align="center">BCA Student (Data Science & AI) | Aspiring Software Engineer</h3>---
-size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;BCA+Student+(Data+Science+%26+AI);Frontend+Developer;Learning+Backend+%26+React" />
-</p>---
 
 About Me
 
