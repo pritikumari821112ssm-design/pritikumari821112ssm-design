@@ -62,10 +62,9 @@ To become a skilled **Data Scientist** and build intelligent, data-driven soluti
 
 ## 🤝 Connect with Me
 
-💼 LinkedIn: https://linkedin.com/in/your-link
+💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/priti-kumari-072a2734a/
 
-📧 Email: your-email@gmail.com
-
+📧 Email: pritikumari821112ssm@gmail.com
 🐙 GitHub: https://github.com/your-username
 
 ---
