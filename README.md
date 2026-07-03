@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
 
 💫 About Me
-I am currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Data Science & Artificial Intelligence at Gopal Narayan Singh University (GNSU), Patna, Bihar.
+I am currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Data Science & Artificial Intelligence at Gopal Narayan Singh University (GNSU).
 I am passionate about Data Science, Machine Learning, Artificial Intelligence, and Data Analytics. Currently, I am strengthening my skills in Python, SQL, Statistics, and Data Visualization through continuous learning and hands-on projects.
 My goal is to become a Data Scientist who transforms data into meaningful insights and develops intelligent solutions to solve real-world problems.
 
