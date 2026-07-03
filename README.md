@@ -10,7 +10,9 @@ My goal is to become a Data Scientist who transforms data into meaningful insigh
 💻 Tech Stack
 
 🐍 Python
+
 🗄️ SQL
+
 📊 Excel
 📈 Pandas
 🔢 NumPy
