@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
-<h3 align="center">BCA Student (Data Science & AI) | Aspiring Software Engineer</h3>
 
 💫 About Me
 I am currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Data Science & Artificial Intelligence at Gopal Narayan Singh University (GNSU), Patna, Bihar.
