@@ -1,50 +1,78 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
 
-💫 About Me
-I am currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Data Science & Artificial Intelligence at Gopal Narayan Singh University (GNSU).
-I am passionate about Data Science, Machine Learning, Artificial Intelligence, and Data Analytics. Currently, I am strengthening my skills in Python, SQL, Statistics, and Data Visualization through continuous learning and hands-on projects.
-My goal is to become a Data Scientist who transforms data into meaningful insights and develops intelligent solutions to solve real-world problems.
+<h3 align="center">
+🎓 BCA (Data Science & Artificial Intelligence) Student <br>
+📍 Student at Gopal Narayan Singh University (GNSU) <br>
+🚀 Aspiring Data Scientist
+</h3>
 
 ---
 
-💻 Tech Stack
+## 👩‍💻 About Me
 
-🐍 Python
-🗄️ SQL
-📊 Excel
-📈 Pandas
-🔢 NumPy
-📓 Jupyter Notebook
-🌐 HTML
-🎨 CSS
-⚡ JavaScript
-🔧 Git & GitHub
+✨ I am currently pursuing a **Bachelor of Computer Applications (BCA)** in **Data Science & Artificial Intelligence** at **Gopal Narayan Singh University (GNSU)**.
 
----
+📊 I am passionate about **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**. I enjoy learning new technologies and applying them to solve real-world problems.
 
-Projects
+💻 Currently, I am strengthening my skills in:
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📈 Statistics
+- 🔧 Git & GitHub
 
-- Typing Speed Test (HTML, CSS, JavaScript)
-- Basic Python Programs
-- Simple Web Pages
+🎯 **Career Goal:**  
+To become a skilled **Data Scientist** and build intelligent, data-driven solutions that create real-world impact.
 
 ---
 
-GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritikumari821112ssm-design&show_icons=true&theme=tokyonight" />
-</p>---
+### 💻 Programming Languages
+- 🐍 Python
+- 🗄️ SQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 
-Connect with Me
+### 📊 Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Excel
 
-- LinkedIn: (https://www.linkedin.com/in/priti-kumari-072a2734a/)
-- Email: pritikumari821112ssm@gmail.com
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-🎯 Career Goal
-"Turning Data into Insights, and Insights into Impact." 📊✨
+## 🌱 Currently Learning
+
+- Machine Learning
+- Data Analytics
+- Statistics
+- Artificial Intelligence
+
+---
+
+## 🤝 Connect with Me
+
+💼 LinkedIn: https://linkedin.com/in/your-link
+
+📧 Email: your-email@gmail.com
+
+🐙 GitHub: https://github.com/your-username
+
+---
+
+## 🎯 Career Goal
+
+> **Turning Data into Insights, and Insights into Impact.** 📊✨
 
 
 
