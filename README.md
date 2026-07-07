@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priti Kumari</h1>
+<h1 align="center">Hi👋, I'm Priti Kumari</h1>
 
 <h3 align="center">
 🎓 BCA (Data Science & Artificial Intelligence) Student <br>
